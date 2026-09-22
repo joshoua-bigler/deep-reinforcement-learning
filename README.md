@@ -1,7 +1,7 @@
 Deep reinforcement learning applied to the Taxi and CarRacing environments from [Gymnasium](https://gymnasium.farama.org/).
 
 # Interactive report
-👉 https://joshoua-bigler.github.io/Deep_Reinforcement_Learning/
+https://joshoua-bigler.github.io/deep-reinforcement-learning
 
 # Setup
 In order to run the [deep_reinforcement_learning.ipynb](notebooks/deep_reinforcement_learning.ipynb) notebook you need to setup the virtual environment and install the required packages. 
